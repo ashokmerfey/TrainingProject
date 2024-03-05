@@ -1,0 +1,7 @@
+PIP installer in Python == MAVEN in Java
+pip used to install packages
+
+"requests" library/package is used for RestAPI testing in Python.
+- - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+  
